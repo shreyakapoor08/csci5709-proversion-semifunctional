@@ -15,6 +15,11 @@
 ## Deployment
 
 I made a clone of the front-end project on github and then imported it on netlify. Then, I configured the build and deployment settings to deploy the app. After all the testcases are passed, my application was deployed on the link mentioned.
+https://fintasticapp.netlify.app/ 
+Steps to navigate to the pages
+1. Click on pro version from the navbar (page 1)
+2. Select subscribe now (page 2)
+3. After clicking subscribe now redirected to payment page (page 3)
 
 ## Built With
 
@@ -116,7 +121,6 @@ As I had multiple pages, to link them I referred about how to use the useNavigat
         </Button>
 ```
 
-The code above was created by adapting the code in [Form Layouts - Official Tailwind CSS UI Components](https://tailwindui.com/components/application-ui/forms/form-layouts) as shown below:
 I have developed the above code by taking the reference of the code in the following:
 
 https://mui.com/material-ui/react-text-field/ 
